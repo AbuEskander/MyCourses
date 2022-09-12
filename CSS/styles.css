@@ -1,0 +1,19 @@
+body{
+  background-color: #EEE3CB;
+}
+hr{
+border-width: 5px;
+border-style:dotted none none;
+ width:10%;
+}
+a{
+  color: black;
+}
+h1{
+  font-style:oblique;
+  color:#472D2D;
+}
+h3{
+  font-style: italic;
+  color:#472D2D;
+}
